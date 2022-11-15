@@ -28,7 +28,6 @@ Ziqian Wang - git username: ZiqianWPort
 $ curl --silent --location https://rpm.nodesource.com/setup_16.x | sudo bash -
 $ sudo yum install -y nodejs
 ```
-  
 4. 
 
 
