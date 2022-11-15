@@ -19,15 +19,5 @@ Ziqian Wang - git username: ZiqianWPort
 <h3>Project Description</h3>
 <p>Link to website: http://34.204.146.87/~liyifei/m3/index.php</p>
 <p>Please note that, since this project is co-developed and is running on my partner's AWS server, I don't have full control over the ip address and the status of the server instance. Therefore, in case this link does not function as expected, please download the code, make modification of ip address and database setting, and run it on an instance to try it out.</p>
-<p>
-1. Please ensure that you have a running server instance that you may use.<br>
-2. Please ensure that you have Node and NPM installed on your server.<br>
-3. If you don't have Node and NPM installed on your server yet, please access your server in your terminal, and type in the following code to install Node and NPM:<br>
-  
-```
-$ curl --silent --location https://rpm.nodesource.com/setup_16.x | sudo bash -
-$ sudo yum install -y nodejs
-```
-4. 
 
 
