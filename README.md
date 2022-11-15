@@ -23,6 +23,7 @@ Ziqian Wang - git username: ZiqianWPort
 1. Please ensure that you have a running server instance that you may use.<br>
 2. Please ensure that you have Node and NPM installed on your server.<br>
 3. If you don't have Node and NPM installed on your server yet, please access your server in terminal, and type in the following code to install Node and NPM:<br>
+  
 ```
 $ curl --silent --location https://rpm.nodesource.com/setup_16.x | sudo bash -
 $ sudo yum install -y nodejs
