@@ -7,11 +7,13 @@ Welcome to another one of my web dev project! This is an in-class project from c
 <p>
 This code has been made public only for my personal portfolio purposes. If you are a student at WashU, please note that I do not grant permission for anyone to turn in this code as their in-class project or use part of it in their assignment.
 </p>
+#
 
+<h3>Developers</h3>
+Ziqian Wang - git username: ZiqianWPort<br>
+Yifei Li - git username: LiYifei1218
 #
 
 <h3>Project Description</h3>
-<p>Developers:<br>
-Ziqian Wang<br>
-Yifei Li
-</p>
+
+
