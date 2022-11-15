@@ -18,6 +18,6 @@ Ziqian Wang - git username: ZiqianWPort
 
 <h3>Project Description</h3>
 <p>Link to website: http://34.204.146.87/~liyifei/m3/index.php</p>
-<p>please note that, since this project is co-developed and is running on my partner's AWS server, I don't have full control over the ip address and the status of the server instance. Therefore, in case this link does not function as expected, please download the code, make modification of ip address and database setting, and run it on an instance to try it out.</p>
+<p>Please note that, since this project is co-developed and is running on my partner's AWS server, I don't have full control over the ip address and the status of the server instance. Therefore, in case this link does not function as expected, please download the code, make modification of ip address and database setting, and run it on an instance to try it out.</p>
 
 
